@@ -1,6 +1,6 @@
 {
   "name": "@tssuite/dna-tssuite",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "DNA of all tssuite repos: every topic layer in one dependency",
   "keywords": [
     "dna",
