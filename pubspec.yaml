@@ -15,8 +15,8 @@ dependencies:
   dna_readme: ^0.1.0
   dna_translate: ^0.1.0
   dna_vscode: ^0.1.0
-  dna_scripts: ^0.1.0
-  dna_gg: ^0.1.1
+  dna_scripts: ^0.2.1
+  dna_gg: ^0.2.0
 
 dev_dependencies:
   helix: ^1.1.0
