@@ -75,19 +75,19 @@
     },
     {
       "name": "dna-scripts",
-      "package": "dna_scripts",
-      "ecosystem": "pub",
-      "resolvedVersion": "0.1.0",
-      "via": "dna-gg",
-      "hash": "0x9ee08ef13ab4c8d3"
+      "package": "@ggdna/dna-scripts",
+      "ecosystem": "node",
+      "resolvedVersion": "0.2.1",
+      "via": null,
+      "hash": "0xe3092339b83504a1"
     },
     {
       "name": "dna-gg",
       "package": "@ggdna/dna-gg",
       "ecosystem": "node",
-      "resolvedVersion": "0.1.1",
+      "resolvedVersion": "0.2.0",
       "via": null,
-      "hash": "0xb7b292a1a91dd05f"
+      "hash": "0x97c559b0151610d4"
     },
     {
       "name": "self",
@@ -174,7 +174,7 @@
     },
     {
       "path": ".github/workflows/quick_check.yaml",
-      "hash": "0xa61b5062f48e430c"
+      "hash": "0xf3320fb8f530a565"
     },
     {
       "path": ".vscode/extensions.json",
@@ -338,47 +338,47 @@
     },
     {
       "path": "scripts/delete-feature-branch.js",
-      "hash": "0x219ac0a3635ee644"
+      "hash": "0x63a1bdba2149e544"
     },
     {
       "path": "scripts/functions/colors.js",
-      "hash": "0xdfd97f3804665811"
+      "hash": "0x2b7cb58c0caca911"
     },
     {
       "path": "scripts/functions/current-branch.js",
-      "hash": "0xb9ebbadf45893278"
+      "hash": "0xfb6cc0b147485b78"
     },
     {
       "path": "scripts/functions/directories.js",
-      "hash": "0x148d4ebb8aa75523"
+      "hash": "0xf919735519e9ae23"
     },
     {
       "path": "scripts/functions/get-repo-urls.js",
-      "hash": "0x4c7b3897973acec3"
+      "hash": "0xce8e503474012b88"
     },
     {
       "path": "scripts/functions/get-version.js",
-      "hash": "0xfe46316558755cf2"
+      "hash": "0x577e6f9d0c0ce3f2"
     },
     {
       "path": "scripts/functions/is-clean-repo.js",
-      "hash": "0x8aa95ca51d9d6517"
+      "hash": "0x2cfc6c97303d5817"
     },
     {
       "path": "scripts/functions/is-main-up-to-date.js",
-      "hash": "0xe1ab1826d0ddd039"
+      "hash": "0x7d028a72b2622539"
     },
     {
       "path": "scripts/functions/pull-request-url.js",
-      "hash": "0x5398755a61a59928"
+      "hash": "0xf98231c2a5442228"
     },
     {
       "path": "scripts/functions/run-command.js",
-      "hash": "0x085b390fcb9256ab"
+      "hash": "0x311a64a74eacbfab"
     },
     {
       "path": "scripts/functions/sync-folders.js",
-      "hash": "0x4f83165fd92ec49d"
+      "hash": "0xcdf9572c9182c59d"
     },
     {
       "path": "scripts/rename-class.js",
@@ -386,11 +386,11 @@
     },
     {
       "path": "scripts/setup-github-repo.js",
-      "hash": "0x5907588070a580ca"
+      "hash": "0x90299e8dbb611547"
     },
     {
       "path": "scripts/wait-for-pr.js",
-      "hash": "0x1360c661984b78a8"
+      "hash": "0x1d6b9525c9a00da8"
     }
   ]
 }
