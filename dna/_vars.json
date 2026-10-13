@@ -1,3 +1,4 @@
 {
-  "dnaCopyrightHolder": "tssuite"
+  "dnaCopyrightHolder": "tssuite",
+  "dnaGitQuickCheckPipelineName": "Quick Check"
 }
