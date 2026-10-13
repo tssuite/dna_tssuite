@@ -9,4 +9,4 @@
 // coverage:ignore-file
 
 /// The version of the `dna_tssuite` package.
-const String dnaTssuiteVersion = '0.1.2';
+const String dnaTssuiteVersion = '0.2.0';
