@@ -4,80 +4,137 @@ settings:
   autoInstallPeers: true
   excludeLinksFromLockfile: false
 
-overrides:
-  '@ggdna/dna-blog': link:../dna_blog
-  '@ggdna/dna-clean-code': link:../dna_clean_code
-  '@ggdna/dna-gg': link:../dna_gg
-  '@ggdna/dna-github': link:../dna_github
-  '@ggdna/dna-index': link:../dna_index
-  '@ggdna/dna-install': link:../dna_install
-  '@ggdna/dna-guides': link:../dna_guides
-  '@ggdna/dna-readme': link:../dna_readme
-  '@ggdna/dna-scripts': link:../dna_scripts
-  '@ggdna/dna-translate': link:../dna_translate
-  '@ggdna/dna-vscode': link:../dna_vscode
-
 importers:
 
   .:
     dependencies:
       '@ggdna/dna-blog':
-        specifier: link:../dna_blog
-        version: link:../dna_blog
+        specifier: ^0.2.0
+        version: 0.2.0
       '@ggdna/dna-clean-code':
-        specifier: link:../dna_clean_code
-        version: link:../dna_clean_code
+        specifier: ^0.2.0
+        version: 0.2.0
       '@ggdna/dna-gg':
-        specifier: link:../dna_gg
-        version: link:../dna_gg
+        specifier: ^0.8.0
+        version: 0.8.0
       '@ggdna/dna-guides':
-        specifier: link:../dna_guides
-        version: link:../dna_guides
+        specifier: ^0.2.0
+        version: 0.2.0
       '@ggdna/dna-index':
-        specifier: link:../dna_index
-        version: link:../dna_index
+        specifier: ^0.2.0
+        version: 0.2.0
       '@ggdna/dna-install':
-        specifier: link:../dna_install
-        version: link:../dna_install
+        specifier: ^0.2.0
+        version: 0.2.0
       '@ggdna/dna-readme':
-        specifier: link:../dna_readme
-        version: link:../dna_readme
+        specifier: ^0.2.0
+        version: 0.2.0
       '@ggdna/dna-scripts':
-        specifier: link:../dna_scripts
-        version: link:../dna_scripts
+        specifier: ^0.3.0
+        version: 0.3.0
       '@ggdna/dna-translate':
-        specifier: link:../dna_translate
-        version: link:../dna_translate
+        specifier: ^0.2.0
+        version: 0.2.0
       '@ggdna/dna-vscode':
-        specifier: link:../dna_vscode
-        version: link:../dna_vscode
+        specifier: ^0.3.0
+        version: 0.3.0
     devDependencies:
       '@types/node':
-        specifier: ^26.4.1
-        version: 26.4.1
+        specifier: ^26.6.5
+        version: 26.6.5
       prettier:
-        specifier: ^3.9.6
-        version: 3.9.6
+        specifier: ^3.9.10
+        version: 3.9.10
 
 packages:
 
-  '@types/node@26.4.1':
-    resolution: {integrity: sha512-k97ENvZWtvA6yqz5/FS6a7duDgOPEeOQOc2iKS/nY6mX6qJUKtLnWzQS+Xj6tXweyj6ZcTAK2Qecetnvi9nCLA==}
+  '@ggdna/dna-blog@0.2.0':
+    resolution: {integrity: sha512-ZQwZcfRIDgiqmdptMOgYeCoS7ysK+HV+G1ZZKLpOnoYaCDnvCrmYNKJ5iiqc5P/fThjV2n7LQoVswoYZozOBhw==}
+    engines: {node: '>=22'}
 
-  prettier@3.9.6:
-    resolution: {integrity: sha512-OpN0zzVdiaiAhxpuuj5efpIS4sY9j7bY6uR5mnj5yPzGkdkjNKSJeUThPb60Jw29QuAZgA4o+/iB49kFiaBX6g==}
+  '@ggdna/dna-clean-code@0.2.0':
+    resolution: {integrity: sha512-hOOdEhGWLZI0t1k+YghPz+FSlGxfbVcGo8RIaNQ+4vGP1TMzHhOcxFzL3pTyPWRpOYEfM09qrDRmlT6mn2ZgsQ==}
+    engines: {node: '>=22'}
+
+  '@ggdna/dna-gg@0.8.0':
+    resolution: {integrity: sha512-30rs49jg0+VcB83bR/9E3iZ3/0oLg3Z0zfZ2nBDBuulSC/s8gu7EFRo7hU1QhY3JJc+2PdUwck45H1ixZJaBCA==}
+    engines: {node: '>=22'}
+
+  '@ggdna/dna-github@0.1.0':
+    resolution: {integrity: sha512-AsAJPAcB4VMYe7/1ipCCqn9Sg/k6C1h/RYXPBb52Vz2SVq37O+vB5ihgl1sjBPSQ56x9/j6C3yQiFXJNDrQ3KQ==}
+    engines: {node: '>=22'}
+
+  '@ggdna/dna-guides@0.2.0':
+    resolution: {integrity: sha512-abcWI3W+b8U/uxSV6f9XGOHpaUXKHdqIbWgSczLq61ueOl0xSRJUZD+BeF6dasyV3blJ0Ir84vju6ioe8VTpyg==}
+    engines: {node: '>=22'}
+
+  '@ggdna/dna-index@0.2.0':
+    resolution: {integrity: sha512-azbA8fMhn01eSvEcjJc4aXrh8H0svc/lru2MJVAOaZ+sLnzm3bTrlQTxfcJ5sm/bidtMAh9+738AfAJcQdLP2A==}
+    engines: {node: '>=22'}
+
+  '@ggdna/dna-install@0.2.0':
+    resolution: {integrity: sha512-EIeGLKCSV2aBfdafgJK0ZrwHe/4t6B74MdLyw4UtbhrBivSZ2DYZfxGXohMffyOAxa8AJ1eUopPdhwyzYBKNjA==}
+    engines: {node: '>=22'}
+
+  '@ggdna/dna-readme@0.2.0':
+    resolution: {integrity: sha512-Y/0C7UKBitGktgerIfsH3IMyi+AVoVGzfhQwdWhvyod2LAt5ZQIPNBp3RjCpG5lYeDD56RDwM6W9vcx82plZzg==}
+    engines: {node: '>=22'}
+
+  '@ggdna/dna-scripts@0.3.0':
+    resolution: {integrity: sha512-HPqOlpbw/0TRgJxMY8ObY6RSS5FlrgKb2d9kd4morrA8M9gmDYFgfyWVLI1vK/0WWkqLcSOjD2M9Jq/1yETsrw==}
+    engines: {node: '>=22'}
+
+  '@ggdna/dna-translate@0.2.0':
+    resolution: {integrity: sha512-KQydGT5mzhRItqoFyfHyWj/6DorIsTiOwFvUgHQY4ZoFe/+vv4pE5yDj6A4ru3eYmRw010LyCOiIJjY8gUOM7g==}
+    engines: {node: '>=22'}
+
+  '@ggdna/dna-vscode@0.3.0':
+    resolution: {integrity: sha512-8St3tFhH44+5mE5e0G7cTqkBqv3GNNO7SMMPnvsDlDIonCC7rhD7Vt1zCPWLNJmSn0I0TQ45S3wQrikyvmCOEQ==}
+    engines: {node: '>=22'}
+
+  '@types/node@26.6.5':
+    resolution: {integrity: sha512-uMzsv9stDdofIZBx4UGh4Z9ZgXnGC9seRDscilBcTHAeOFk67MZg/k9bWVfO+bk4qZmG+l52hRnLwUiH2LnJTg==}
+
+  prettier@3.9.10:
+    resolution: {integrity: sha512-skGHTH1Yb9QvaTC4hWnRTzEYtCpApF0UMBPz+t/0ZPzP8ihefo/btKd+QA7pUE0fEwA1SbS/NmhyEcstdXOIdA==}
     engines: {node: '>=14'}
     hasBin: true
 
-  undici-types@8.3.0:
-    resolution: {integrity: sha512-j375ScV60dom+YkPFIfTLcOiPxkN/buHz5GobjLhixFuANaNs3C9l4GmrWqejgXWJ7BbJcFYpTEUkS1Ge8bpZQ==}
+  undici-types@8.9.0:
+    resolution: {integrity: sha512-KTDyRTYX8sWmKXAikPHHSyc63CRPETMctyjKFupcC6OBLXT3xsN0e9aF7m+mIXutFWpUXuedtowG7iLOzp0kQg==}
 
 snapshots:
 
-  '@types/node@26.4.1':
+  '@ggdna/dna-blog@0.2.0': {}
+
+  '@ggdna/dna-clean-code@0.2.0': {}
+
+  '@ggdna/dna-gg@0.8.0':
     dependencies:
-      undici-types: 8.3.0
+      '@ggdna/dna-github': 0.1.0
+      '@ggdna/dna-index': 0.2.0
+      '@ggdna/dna-install': 0.2.0
 
-  prettier@3.9.6: {}
+  '@ggdna/dna-github@0.1.0': {}
 
-  undici-types@8.3.0: {}
+  '@ggdna/dna-guides@0.2.0': {}
+
+  '@ggdna/dna-index@0.2.0': {}
+
+  '@ggdna/dna-install@0.2.0': {}
+
+  '@ggdna/dna-readme@0.2.0': {}
+
+  '@ggdna/dna-scripts@0.3.0': {}
+
+  '@ggdna/dna-translate@0.2.0': {}
+
+  '@ggdna/dna-vscode@0.3.0': {}
+
+  '@types/node@26.6.5':
+    dependencies:
+      undici-types: 8.9.0
+
+  prettier@3.9.10: {}
+
+  undici-types@8.9.0: {}
