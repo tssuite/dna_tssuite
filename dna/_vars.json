@@ -1,4 +1,8 @@
 {
   "dnaCopyrightHolder": "tssuite",
-  "dnaGitQuickCheckPipelineName": "Quick Check"
+  "dnaGitQuickCheckPipelineName": "Quick Check",
+  "dnaCompany": "tssuite",
+  "dnaGitOrg": "tssuite",
+  "dnaGitOrgUrl": "https://github.com/tssuite",
+  "dnaJiraPrefix": "TSS"
 }
