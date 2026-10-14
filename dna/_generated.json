@@ -63,7 +63,7 @@
       "ecosystem": "node",
       "resolvedVersion": "0.3.0",
       "via": null,
-      "hash": "0x9a76a39efcd34360"
+      "hash": "0xb1b916118eb63333"
     },
     {
       "name": "dna-clean-code",
@@ -93,7 +93,7 @@
       "name": "dna-gg",
       "package": "@ggdna/dna-gg",
       "ecosystem": "node",
-      "resolvedVersion": "0.8.0",
+      "resolvedVersion": "0.8.1",
       "via": null,
       "hash": "0xc0e2cebcfa39b9d7"
     },
@@ -103,7 +103,7 @@
       "ecosystem": null,
       "resolvedVersion": null,
       "via": null,
-      "hash": "0x0e29bcb911daf11f"
+      "hash": "0xbf95e1b11eae29b1"
     }
   ],
   "claude": {
@@ -123,7 +123,7 @@
     },
     {
       "path": ".claude/skills/gg-cleanup/SKILL.md",
-      "hash": "0x4a6903a51168486a"
+      "hash": "0x54fb2453eecd486a"
     },
     {
       "path": ".claude/skills/gg-commit/SKILL.md",
@@ -139,7 +139,7 @@
     },
     {
       "path": ".claude/skills/gg-ticket/SKILL.md",
-      "hash": "0xe2e320fd71159027"
+      "hash": "0x4c3dad7784be9027"
     },
     {
       "path": ".claude/skills/gg/SKILL.md",
@@ -203,7 +203,7 @@
     },
     {
       "path": ".vscode/settings.json",
-      "hash": "0xc5eb8cf9d27a6834"
+      "hash": "0xbe29e2d38179db29"
     },
     {
       "path": "doc/guides/blog-guide.md",
@@ -239,7 +239,7 @@
     },
     {
       "path": "doc/guides/for-ai/ai-dev-guide.md",
-      "hash": "0xfaa69d2219ccfb0f"
+      "hash": "0x59af3b2ba9c18eae"
     },
     {
       "path": "doc/guides/for-ai/ai-review-guide.md",
@@ -279,7 +279,7 @@
     },
     {
       "path": "doc/guides/install-guide/install-gg-guide.md",
-      "hash": "0x6c8bcadc02c398d6"
+      "hash": "0xf9817bdc02c398d6"
     },
     {
       "path": "doc/guides/install-guide/install-gg-workspace-guide.md",
@@ -331,7 +331,7 @@
     },
     {
       "path": "doc/guides/vscode-guide.md",
-      "hash": "0xde8d8d6a77de6498"
+      "hash": "0x226ebfa4d6de6498"
     },
     {
       "path": "doc/templates/blog-template-de.md",
@@ -351,7 +351,7 @@
     },
     {
       "path": "doc/templates/readme-template.md",
-      "hash": "0xeace5f54f24ba857"
+      "hash": "0xe20e72ece445e6eb"
     },
     {
       "path": "guides/setup-github-guide.md",
