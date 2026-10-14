@@ -95,7 +95,7 @@
       "ecosystem": "node",
       "resolvedVersion": "0.8.1",
       "via": null,
-      "hash": "0xc0e2cebcfa39b9d7"
+      "hash": "0x2583c9e1629c0937"
     },
     {
       "name": "self",
@@ -239,7 +239,7 @@
     },
     {
       "path": "doc/guides/for-ai/ai-dev-guide.md",
-      "hash": "0x59af3b2ba9c18eae"
+      "hash": "0xb54849bcaee868ce"
     },
     {
       "path": "doc/guides/for-ai/ai-review-guide.md",
