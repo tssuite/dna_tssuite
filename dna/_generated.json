@@ -69,9 +69,9 @@
       "name": "dna-clean-code",
       "package": "@ggdna/dna-clean-code",
       "ecosystem": "node",
-      "resolvedVersion": "0.2.0",
+      "resolvedVersion": "0.2.1",
       "via": null,
-      "hash": "0xacaa785dad36b047"
+      "hash": "0xe22a90f5db73ee20"
     },
     {
       "name": "dna-scripts",
@@ -119,7 +119,7 @@
     },
     {
       "path": ".claude/skills/code/SKILL.md",
-      "hash": "0x8c3a3e05b62df8a3"
+      "hash": "0xee0b976c72c50af3"
     },
     {
       "path": ".claude/skills/gg-cleanup/SKILL.md",
@@ -175,7 +175,7 @@
     },
     {
       "path": ".claude/skills/test/SKILL.md",
-      "hash": "0x16d30e8cdc4437ea"
+      "hash": "0xede3c670c964ba93"
     },
     {
       "path": ".claude/skills/translate/SKILL.md",
@@ -211,15 +211,15 @@
     },
     {
       "path": "doc/guides/code-guide-dart.md",
-      "hash": "0xcd69cf634d069fc1"
+      "hash": "0x721b06b448cd8848"
     },
     {
       "path": "doc/guides/code-guide-typescript.md",
-      "hash": "0xd9c2d04beb8c859d"
+      "hash": "0xe2774e5b495d3fb4"
     },
     {
       "path": "doc/guides/code-guide.md",
-      "hash": "0xc2b4a0ffe7fd9bf8"
+      "hash": "0xa4f0fddfd0dc515e"
     },
     {
       "path": "doc/guides/develop-guide.md",
@@ -315,15 +315,15 @@
     },
     {
       "path": "doc/guides/test-guide-dart.md",
-      "hash": "0xcb13a022348a4aaa"
+      "hash": "0x6cc9ebc0919e79f0"
     },
     {
       "path": "doc/guides/test-guide-typescript.md",
-      "hash": "0x31b17070aff8341e"
+      "hash": "0xe092c57d74052ca6"
     },
     {
       "path": "doc/guides/test-guide.md",
-      "hash": "0x96e963a2d45515a3"
+      "hash": "0xd32899a2e599c17e"
     },
     {
       "path": "doc/guides/translate-guide.md",
