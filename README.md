@@ -28,6 +28,12 @@ above. Everything a tssuite repo sees comes from them.
 
 - `dnaCopyrightHolder` — the name in the license header of every file,
   set to `tssuite` here
+- `dnaCompany`, `dnaGitOrg`, `dnaGitOrgUrl` — the organization, set to
+  `tssuite` and `https://github.com/tssuite` here
+- `dnaJiraPrefix` — the prefix of a ticket id, set to `TSS` here
+
+The topic layers require these in the layer listing them. This layer sets
+them, so repos listing it need not.
 
 ## Usage
 
