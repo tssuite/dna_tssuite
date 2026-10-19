@@ -1,5 +1,5 @@
 name: dna_tssuite
-description: "DNA of all tssuite repos: every topic layer in one dependency"
+description: "Gives a tssuite repo every topic layer and the tssuite identity in one dependency."
 version: 0.4.0
 repository: https://github.com/tssuite/dna_tssuite.git
 
