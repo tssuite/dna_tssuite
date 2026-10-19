@@ -1,6 +1,6 @@
 name: dna_tssuite
 description: "DNA of all tssuite repos: every topic layer in one dependency"
-version: 0.3.0
+version: 0.4.0
 repository: https://github.com/tssuite/dna_tssuite.git
 
 environment:
