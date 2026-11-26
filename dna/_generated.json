@@ -15,7 +15,7 @@
       "ecosystem": "node",
       "resolvedVersion": "0.4.1",
       "via": null,
-      "hash": "0x3fa94fd2d9b184c9"
+      "hash": "0xfb507a8f6df4e668"
     },
     {
       "name": "dna-guides",
@@ -31,7 +31,7 @@
       "ecosystem": "node",
       "resolvedVersion": "0.5.1",
       "via": null,
-      "hash": "0x18124d421abec3df"
+      "hash": "0x5f5ce89a81e1d577"
     },
     {
       "name": "dna-index",
@@ -95,7 +95,7 @@
       "ecosystem": "node",
       "resolvedVersion": "1.9.2",
       "via": null,
-      "hash": "0xae61f4cdf52c3c46"
+      "hash": "0x69460d3415cdf522"
     },
     {
       "name": "self",
@@ -354,7 +354,7 @@
     },
     {
       "path": "doc/de/guides/translate-guide.md",
-      "hash": "0x4695082a9e82f9e7"
+      "hash": "0x0516f97833fb803d"
     },
     {
       "path": "doc/de/guides/vscode-guide.md",
@@ -502,7 +502,7 @@
     },
     {
       "path": "doc/en/guides/translate-guide.md",
-      "hash": "0x6b2b3cffcb932e5c"
+      "hash": "0x4db81c3b9b490f89"
     },
     {
       "path": "doc/en/guides/vscode-guide.md",
@@ -578,7 +578,7 @@
     },
     {
       "path": "doc/fa/guides/install-guide.md",
-      "hash": "0x4d5ae17b33019d40"
+      "hash": "0xf0ad1fc0963a9554"
     },
     {
       "path": "doc/fa/guides/install-guide/install-azure-cli-guide.md",
@@ -654,7 +654,7 @@
     },
     {
       "path": "doc/fa/guides/translate-guide.md",
-      "hash": "0xa96f696684e3be2d"
+      "hash": "0x28acdde841a86f79"
     },
     {
       "path": "doc/fa/guides/vscode-guide.md",
@@ -674,7 +674,7 @@
     },
     {
       "path": "scripts/check-readme.js",
-      "hash": "0xff657e6576ac8b2c"
+      "hash": "0x4e398d793a48fa1e"
     },
     {
       "path": "scripts/delete-feature-branch.js",
