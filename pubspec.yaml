@@ -4,7 +4,7 @@ version: 2.0.0
 repository: https://github.com/tssuite/dna_tssuite.git
 
 environment:
-  sdk: ">=3.13.0 <4.0.0"
+  sdk: ">=3.14.0 <4.0.0"
 
 dependencies:
   dna_blog: ^0.6.0
